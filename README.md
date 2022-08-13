@@ -13,11 +13,11 @@ Assist the data analytics team to perform several analysis including a multiple 
 
 For this analysis I loaded the suspension coils dataset. The dataset had three lot numbers, 150 vehicle IDs, and a PSI levele for each vehicle.  I converted the dataset into a dataframe then created two subset of tables within it, Total Summary and Lot Summary.  The first table, Total Summary, looks at the data holistically.  The second table, Lot Summary, looks at the three different lots that divides MechaCars.  See the below two tables for the end results.
 
-Total Summary Table
+**Total Summary Table**
 
 ![This is an image](https://github.com/Jahill17/MechaCar_Statistical_Analysis/blob/main/Deliverable2_total_Summary.png)
 
-Lot Summary
+**Lot Summary**
 
 ![This is an image](https://github.com/Jahill17/MechaCar_Statistical_Analysis/blob/main/Deliverable2_Lot_Summary.png)
 
