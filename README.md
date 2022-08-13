@@ -24,3 +24,22 @@ For this analysis I loaded the suspension coils dataset. The dataset had three l
 The two questions I am tasked with answering are the following: 1) Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? 2) Why or why not?
 
 - The total summary current variance is 62.29 PSI, which implies that it does meet the design specification of not exceeding 100 pounds per square inch.  When looking at the individual lots, the first two lots are within the design specs with variances of 0.98 and 7.74.  The third lot does not meet the design specification because of it's high variance of 170.29; this exceeds the design specification by almost double the allowed amount.  It's recommended the manufacturing team should only work on vehicles within lots one and two.
+
+
+## T-Tests on Suspension Coils
+
+The single t-test on PSI values when compared to the standard of 1500 PSI for suspension coils resulted in the following p-values:
+- All lots together: 0.06028
+- Lot 1 individually: 1
+- Lot 2 individually: 0.6072
+- Lot 3 individually: 0.04168
+
+Under the assumption the significant value should be below 0.05 for the p value, lot 3 would be the only lot that is significantly different.  Lot 1 and lot 2 appear to not be significantly different, which would imply they are performing to the standard of 1500 PSI.  The data implies that lot 3 is significantly underperforming due to the p value, the lower mean, lower confidence interval, and higher variance.
+
+All Lots T Tests
+
+![This is an image](https://github.com/Jahill17/MechaCar_Statistical_Analysis/blob/main/Deliverable3_t-test-all-lots.png)
+
+Individual Lots T Tests
+
+![This is an image](https://github.com/Jahill17/MechaCar_Statistical_Analysis/blob/main/Deliverable3_t-test-individual-lots.png)
