@@ -43,3 +43,8 @@ Under the assumption the significant value should be below 0.05 for the p value,
 **Individual Lots T Tests**
 
 ![This is an image](https://github.com/Jahill17/MechaCar_Statistical_Analysis/blob/main/Deliverable3_t-test-individual-lots.png)
+
+
+## Study Design: MechaCar vs Competition
+
+For this request I am to compare how the MechaCar vehicles performs with the competition.
