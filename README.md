@@ -49,9 +49,9 @@ Under the assumption the significant value should be below 0.05 for the p value,
 
 For this request I am to compare how the MechaCar vehicles performs with the competition.  More specifically, provide a summary that encompasses the following: design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.  
 
-The specific questions at hand are the following:
-- What metric or metrics are you going to test?
-- What is the null hypothesis or alternative hypothesis?
-- What statistical test would you use to test the hypothesis? And why?
-- What data is needed to run the statistical test?
+The specific questions and answers are the following:
+- What metric or metrics are you going to test?  The metric that I would test are both the city and highway mpg fuel efficiences.
+- What is the null hypothesis or alternative hypothesis?  The null hypothesis would be that every vehicle in the same class have fuel efficiences that are equal to each other.  The alternative hypothesis would be that the fuel efficiencies of the vehicles are not all the same.
+- What statistical test would you use to test the hypothesis? And why?  The test that would be best is teh ANOVA test.  This would show a complete analysis for the city and highway mpg fuel efficiencies.  Using the ggplot2 library to graph a boxplot showing the different vehicles would also be helpful.
+- What data is needed to run the statistical test?  Having the fuel mpg fuel efficiency data for all vehicles would be necessary.  A sample size of data for each vehicle in the respective classes would be created.
 
