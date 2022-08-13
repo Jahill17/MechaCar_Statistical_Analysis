@@ -36,10 +36,10 @@ The single t-test on PSI values when compared to the standard of 1500 PSI for su
 
 Under the assumption the significant value should be below 0.05 for the p value, lot 3 would be the only lot that is significantly different.  Lot 1 and lot 2 appear to not be significantly different, which would imply they are performing to the standard of 1500 PSI.  The data implies that lot 3 is significantly underperforming due to the p value, the lower mean, lower confidence interval, and higher variance.
 
-All Lots T Tests
+**All Lots T Tests**
 
 ![This is an image](https://github.com/Jahill17/MechaCar_Statistical_Analysis/blob/main/Deliverable3_t-test-all-lots.png)
 
-Individual Lots T Tests
+**Individual Lots T Tests**
 
 ![This is an image](https://github.com/Jahill17/MechaCar_Statistical_Analysis/blob/main/Deliverable3_t-test-individual-lots.png)
