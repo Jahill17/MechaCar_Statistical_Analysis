@@ -47,4 +47,11 @@ Under the assumption the significant value should be below 0.05 for the p value,
 
 ## Study Design: MechaCar vs Competition
 
-For this request I am to compare how the MechaCar vehicles performs with the competition.
+For this request I am to compare how the MechaCar vehicles performs with the competition.  More specifically, provide a summary that encompasses the following: design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.  
+
+The specific questions at hand are the following:
+- What metric or metrics are you going to test?
+- What is the null hypothesis or alternative hypothesis?
+- What statistical test would you use to test the hypothesis? And why?
+- What data is needed to run the statistical test?
+
